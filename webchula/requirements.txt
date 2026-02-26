@@ -4,6 +4,6 @@ pip install oracledb
 
 # djangotest
 
-/home/gioanalytics/djangotest/webchula/television/static
+/home/gogava-gio-analista/djangotest/webchula/television/static
 
-/home/gioanalytics/.venv
+/home/gogava-gio-analista/.venv
