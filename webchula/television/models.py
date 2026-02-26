@@ -18,7 +18,7 @@ class Personaje:
 
 class ServiceSeriesOracle:
     def __init__(self):
-        self.connection = oracledb.connect(user="system", password="oracle"
+        self.connection = oracledb.connect(user="system", password="ORACLE"
                                            , dsn="localhost/freepdb1")
     
     def getSeries(self):
