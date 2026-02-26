@@ -49,4 +49,4 @@ INSERT INTO PERSONAJES (IDPERSONAJE, PERSONAJE, IMAGEN, IDSERIE) VALUES (22, 'Pe
 INSERT INTO PERSONAJES (IDPERSONAJE, PERSONAJE, IMAGEN, IDSERIE) VALUES (23, 'Robin Scherbatsky', 'https://i.pinimg.com/originals/00/29/68/0029683aad5d3c861b621dc1036113af.png', 8);
 INSERT INTO PERSONAJES (IDPERSONAJE, PERSONAJE, IMAGEN, IDSERIE) VALUES (24, 'Fry', 'https://i.pinimg.com/236x/19/d2/97/19d2974d5270ffb5b70ce1421bc5d33e--futurama-slug.jpg', 10);
 INSERT INTO PERSONAJES (IDPERSONAJE, PERSONAJE, IMAGEN, IDSERIE) VALUES (25, 'Bender', 'https://www.pintzap.com/storage/img/memegenerator/templates/bender.jpg', 10);
-commit;
+commit; 

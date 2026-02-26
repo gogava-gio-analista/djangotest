@@ -3,3 +3,7 @@ pip install pymysql
 pip install oracledb
 
 # djangotest
+
+/home/gioanalytics/djangotest/webchula/television/static
+
+/home/gioanalytics/.venv
